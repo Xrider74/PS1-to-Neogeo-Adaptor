@@ -9,7 +9,7 @@ You can build it by yourself for less than 15$ for MVS consolized
 You can show the final result on youtube :
 https://www.youtube.com/watch?v=4mZXFDnxReA
 
-Step 1 : Buy the component
+Step 1 : Buy the components
 
 1X Arduino nano with header pin :
 https://www.aliexpress.com/item/33031395784.html
