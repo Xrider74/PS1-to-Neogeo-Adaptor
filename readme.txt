@@ -25,10 +25,12 @@ $8.13 with shipping include (For 5X PCB)
 
 FOR MVS CONSOLIZED with DB15 MALE not on mainboard ONLY :
 1X DR15 DB15 D-SUB Angle Angled 15 Pin Female Male PCB Mount Socket Connector
+https://www.aliexpress.com/item/32827674627.html
 1,51$ with shipping include 
 
 For other AES & MVS with controller connector on mainboard (DB15 male with long cover, genuine part of SNK) ONLY:
 15Pin Controller Cable for SNK NEOGEO AES/CD Controller, Length 1.8M
+https://www.aliexpress.com/item/32934959428.html
 7,99$ with shipping include 
 
 Step 2 : Assembly it
