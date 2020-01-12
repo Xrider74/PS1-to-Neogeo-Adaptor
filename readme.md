@@ -12,27 +12,27 @@ You can show the final result on youtube :
 
 #### Step 1 : Buy the components
 
-  - 1X Arduino nano with header pin :
-https://www.aliexpress.com/item/33031395784.html
-2.81$ with shipping include
+  - 1X Arduino nano with header pin :        
+https://www.aliexpress.com/item/33031395784.html        
+2.81$ with shipping include        
 
-  - 1X Playsation 1 female connector controller
-https://www.aliexpress.com/item/32819337715.html
-0,79$ with shipping include
+  - 1X Playsation 1 female connector controller        
+https://www.aliexpress.com/item/32819337715.html        
+0,79$ with shipping include        
 
-  - 1X PCB
-https://jlcpcb.com/
-$8.13 with shipping include (For 5X PCB)
+  - 1X PCB        
+https://jlcpcb.com/        
+$8.13 with shipping include (For 5X PCB)        
 
- - FOR MVS CONSOLIZED with DB15 MALE not on mainboard ONLY :
-1X DR15 DB15 D-SUB Angle Angled 15 Pin Female Male PCB Mount Socket Connector
-https://www.aliexpress.com/item/32827674627.html
-1,51$ with shipping include 
+ - FOR MVS CONSOLIZED with DB15 MALE not on mainboard ONLY :        
+1X DR15 DB15 D-SUB Angle Angled 15 Pin Female Male PCB Mount Socket Connector        
+https://www.aliexpress.com/item/32827674627.html        
+1,51$ with shipping include        
 
- - FOR other AES & MVS with controller connector on mainboard (DB15 male with long cover, genuine part of SNK) ONLY:
-15Pin Controller Cable for SNK NEOGEO AES/CD Controller, Length 1.8M
-https://www.aliexpress.com/item/32934959428.html
-7,99$ with shipping include 
+ - FOR other AES & MVS with controller connector on mainboard (DB15 male with long cover, genuine part of SNK) ONLY:        
+15Pin Controller Cable for SNK NEOGEO AES/CD Controller, Length 1.8M        
+https://www.aliexpress.com/item/32934959428.html        
+7,99$ with shipping include         
 
 #### Step 2 : Assembly it
 
