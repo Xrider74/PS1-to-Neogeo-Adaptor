@@ -7,7 +7,8 @@ This projet is under GNU GENERAL PUBLIC LICENSE
 You can build it by yourself for less than 15$ for MVS consolized
 
 You can show the final result on youtube :
-https://www.youtube.com/watch?v=4mZXFDnxReA
+
+[![](https://www.delta-island.com/avatar/youtube.png)](https://www.youtube.com/watch?v=4mZXFDnxReA)
 
 Step 1 : Buy the components
 
@@ -38,8 +39,6 @@ Step 2 : Assembly it
 Step 3 : Program your Arduino Nano
 
 Step 4 : Enjoy !
-
-[![](https://www.delta-island.com/avatar/youtube.png)](https://www.youtube.com/watch?v=4mZXFDnxReA)
 
 Join us at darius-saturn.com forum :
 https://darius-saturn.com/forum/viewtopic.php?f=293&t=11048
