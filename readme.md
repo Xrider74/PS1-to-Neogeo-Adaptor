@@ -1,4 +1,4 @@
-Welcome to PS1 to NEOGEO Controller repository
+# Welcome to PS1 to NEOGEO Controller repository
 www.delta-island.com
 
 This projet allow you to use playstation 1 controller (gamepad or joystick) on Neogeo AES or MVS
