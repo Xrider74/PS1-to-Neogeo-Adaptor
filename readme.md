@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.delta-island.com/avatar/delta-island-signature.jpg">
+</p>
+
 # PS1 to NEOGEO Controller repository
 www.delta-island.com
 
